@@ -1,1 +1,1 @@
-# homebrew-creator-ai
+# homebrew-creator
