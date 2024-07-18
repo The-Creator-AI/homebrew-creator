@@ -35,6 +35,10 @@
       "recommendations": [
         "Add instructions on how to install and use the 'creator' application on macOS systems."
       ]
+    },
+    {
+      "command": "HOMEBREW_NO_INSTALL_FROM_API=1 brew install --build-from-source ./Formula/creator.rb",
+      "description": "Test installing the formula and dependencies in the Homebrew repository."
     }
   ]
 }
