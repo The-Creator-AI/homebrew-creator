@@ -1,9 +1,9 @@
-class CreatorAi < Formula
+class Creator030 < Formula
     desc "A self hosted web app for using LLMs with code context"
     homepage "https://github.com/The-Creator-AI/The-Creator-AI"
-    # url "https://github.com/The-Creator-AI/The-Creator-AI"
-    # sha256 "YOUR_SHA256_HASH"
-    license "MIT"
+    url "file:///dev/null"
+    sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    license "BSD-2-Clause"
   
     depends_on "node"
   
